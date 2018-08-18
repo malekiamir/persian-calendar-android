@@ -1,2 +1,1 @@
-based on open-source project from [ebrahimino](https://github.com/ebraminio)
-
+based on open-source project from https://github.com/ebraminio/DroidPersianCalendar
